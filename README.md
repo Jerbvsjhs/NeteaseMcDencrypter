@@ -1,0 +1,2 @@
+# NeteaseMcDencrypter
+适用于网易版Miecraft的存档解密工具
